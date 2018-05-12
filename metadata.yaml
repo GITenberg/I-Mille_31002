@@ -12,6 +12,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/2358
     wikipedia: http://en.wikipedia.org/wiki/Giuseppe_Garibaldi
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/31002#I-Mille
 gutenberg_bookshelf: IT Biografie
 gutenberg_issued: '2010-01-17'
 gutenberg_type: Text
